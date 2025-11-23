@@ -1,22 +1,23 @@
 # Hi, I'm Ender! 👋
 
-A passionate Frontend Developer diving deep into **Frontend Infrastructure**. As a remote intern at **XTrace**, I'm on an exciting journey, and believe it or not, **this is my first year in programming!**
+A first-year Frontend Developer with a passion for building intelligent user interfaces. By day, I'm crafting AI-driven web experiences at **XTrace**. By night, I'm diving deep into the world of **Frontend Infrastructure**.
 
-- 🔭 I’m currently working on **Frontend Infrastructure** at XTrace, focusing on building a better developer ecosystem.
-- 🌱 I’m currently learning **Vite**, **Rust**, and **CI/CD** pipelines to supercharge our development workflow.
-- 👯 I’m looking to collaborate on **open-source projects** related to build tools or developer experience (DX).
-- 🤔 I’m looking for help with **complex system design** and **performance optimization** for large-scale applications.
-- 💬 Ask me about my journey as a first-year dev, frontend infrastructure, or my experience as a remote intern.
+- 🔭 I’m currently working on **AI-powered frontend applications** at XTrace, focusing on user interaction and data visualization.
+- 🌱 I’m currently learning **Next.js** for full-stack AI development and **Rust** for high-performance tooling.
+- 👯 I’m looking to collaborate on **open-source projects** that bridge the gap between AI and frontend tooling.
+- 🤔 I’m looking for help with **optimizing AI model inference** directly in the browser.
+- 💬 Ask me about my journey as a first-year dev, frontend for AI, my obsession with build tools, or my love for diverse frontend frameworks—especially the Vue community!
 - 📫 How to reach me: [enderromantice@gmail.com](mailto:enderromantice@gmail.com)
-- ⚡ Fun fact: I went from "Hello, World!" to building infrastructure in under a year!
+- 😄 Pronouns: He/Him (你可以改成你自己的)
+- ⚡ Fun fact: I went from "Hello, World!" to working on AI applications and exploring infrastructure in my first year of coding!
 
 ---
 
 ### 🛠️ My Tech Stack
 
-My focus is on the tools and technologies that power modern web development.
+My toolkit spans from AI-driven applications to the tools that build them.
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,rust,webpack,git,github,vscode,docker,k8s,aws)
+![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,python,tensorflow,git,github,vscode,vite,rust,docker,astro)
 
 ---
 
