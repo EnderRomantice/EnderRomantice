@@ -8,7 +8,6 @@ A first-year Frontend Developer with a passion for building intelligent user int
 - 🤔 I’m looking for help with **optimizing AI model inference** directly in the browser.
 - 💬 Ask me about my journey as a first-year dev, frontend for AI, my obsession with build tools, or my love for diverse frontend frameworks—especially the Vue community!
 - 📫 How to reach me: [enderromantice@gmail.com](mailto:enderromantice@gmail.com)
-- 😄 Pronouns: He/Him (你可以改成你自己的)
 - ⚡ Fun fact: I went from "Hello, World!" to working on AI applications and exploring infrastructure in my first year of coding!
 
 ---
