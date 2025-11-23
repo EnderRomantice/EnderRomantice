@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **AI-powered frontend applications** at XTrace, focusing on user interaction and data visualization.
-- 🌱 I’m currently learning **Next.js** for full-stack AI development and **Rust** for high-performance tooling.
+- 🌱 I’m currently learning **Astro.js** for full-stack AI development and **Rust** for high-performance tooling.
 - 👯 I’m looking to collaborate on **open-source projects** that bridge the gap between AI and frontend tooling.
 - 🤔 I’m looking for help with **optimizing AI model inference** directly in the browser.
 - 💬 Ask me about my journey as a first-year dev, frontend for AI, my obsession with build tools, or my love for diverse frontend frameworks—especially the Vue community!
@@ -15,7 +15,7 @@
 
 My toolkit spans from AI-driven applications to the tools that build them.
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,python,tensorflow,git,github,vscode,vite,rust,docker,astro)
+![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,astro,nextjs,nodejs,python,go,tensorflow,git,github,vscode,zed,vite,rust,docker)
 
 ---
 
