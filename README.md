@@ -1,6 +1,5 @@
 # Hi, I'm Ender! 👋
 
-A first-year Frontend Developer with a passion for building intelligent user interfaces. By day, I'm crafting AI-driven web experiences at **XTrace**. By night, I'm diving deep into the world of **Frontend Infrastructure**.
 
 - 🔭 I’m currently working on **AI-powered frontend applications** at XTrace, focusing on user interaction and data visualization.
 - 🌱 I’m currently learning **Next.js** for full-stack AI development and **Rust** for high-performance tooling.
