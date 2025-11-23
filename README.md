@@ -15,7 +15,7 @@
 
 My toolkit spans from AI-driven applications to the tools that build them.
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,astro,nextjs,nodejs,python,go,tensorflow,git,github,vscode,zed,vite,rust,docker)
+![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,astro,nextjs,nodejs,python,go,git,github,vscode,vite,rust,docker)
 
 ---
 
