@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **AI-powered frontend applications** at XTrace, focusing on user interaction and data visualization.
-- 🌱 I’m currently learning **Astro.js** for full-stack AI development and **Rust** for high-performance tooling.
+- 🌱 learning **Astro.js** for full-stack AI development and **Rust** for high-performance tooling.
 - 👯 I’m looking to collaborate on **open-source projects** that bridge the gap between AI and frontend tooling.
 - 💬 I love the friendly atmosphere of the open-source community, especially the Vue community.
 - 📫 How to reach me: [enderromantice@gmail.com](mailto:enderromantice@gmail.com)
