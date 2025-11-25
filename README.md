@@ -5,7 +5,7 @@
 
 - 🌱 I'm learning **Rust** for high-performance tool development and **KV database development** to achieve efficient data storage solutions.
 
-- 👯 I want to meet more friends to build great open-source projects together.
+- 👯 I want to make more friends, regardless of their background, technical field, or family. I want to see the world from different perspectives.
 
 - 💬 I really enjoy the friendly atmosphere of the open-source community, especially the Vue community.
 
