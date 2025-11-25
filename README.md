@@ -17,7 +17,7 @@
 
 ### 🛠️ My Tech Stack
 
-My toolkit spans from AI-driven applications to the tools that build them.
+These are not only my technologies, but also my dearest friends, and I am genuinely happy to work with them.
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,astro,nextjs,nodejs,python,go,git,github,vscode,vite,rust,docker,redis,sqlite)
 
