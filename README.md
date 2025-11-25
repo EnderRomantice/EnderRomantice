@@ -1,12 +1,17 @@
 # Hi, I'm Ender! 👋
 
 
-- 🔭 I’m currently working on **AI-powered frontend applications** at XTrace, focusing on user interaction and data visualization.
-- 🌱 learning **Astro.js** for full-stack AI development, **Rust** for high-performance tooling, and **KV database development** for efficient data storage solutions.
-- 👯 I’m looking to collaborate on **open-source projects** that bridge the gap between AI and frontend tooling.
-- 💬 I love the friendly atmosphere of the open-source community, especially the Vue community.
-- 📫 How to reach me: [enderromantice@gmail.com](mailto:enderromantice@gmail.com)
-- ⚡ Fun fact: I went from "Hello, World!" to working on AI applications and exploring infrastructure in my first year of coding!
+- 🔭 I love remote work and currently work at XTrace developing **AI-driven front-end applications**, focusing on user interaction and data visualization.
+
+- 🌱 I'm learning **Rust** for high-performance tool development and **KV database development** to achieve efficient data storage solutions.
+
+- 👯 I want to meet more friends to build great open-source projects together.
+
+- 💬 I really enjoy the friendly atmosphere of the open-source community, especially the Vue community.
+
+- ⚡ I'm currently self-studying A-levels and IELTS from scratch.
+
+- 📫 Contact: [enderromantice@gmail.com](mailto:enderromantice@gmail.com)
 
 ---
 
