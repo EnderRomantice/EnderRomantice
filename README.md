@@ -9,7 +9,7 @@
 
 - 💬 I really enjoy the friendly atmosphere of the open-source community, especially the Vue community.
 
-- ⚡ I'm currently self-studying A-levels and IELTS from scratch.
+- ⚡ I'm currently self-studying IELTS from scratch.
 
 - 📫 Contact: [enderromantice@gmail.com](mailto:enderromantice@gmail.com)
 
