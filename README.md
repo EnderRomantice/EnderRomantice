@@ -1,7 +1,7 @@
 # Hi, I'm Ender! 👋
 
 
-- 🔭 I love remote work and currently work at XTrace developing **AI-driven front-end applications**, focusing on user interaction and data visualization.
+- 🔭 I love remote work and currently work at Xtrace developing **AI-driven front-end applications**, focusing on user interaction and data visualization.
 
 - 🌱 I'm learning **Rust** for high-performance tool development and **KV database development** to achieve efficient data storage solutions.
 
