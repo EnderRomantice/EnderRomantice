@@ -19,7 +19,7 @@
 
 These are not only my technologies, but also my dearest friends, and I am genuinely happy to work with them.
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,astro,nextjs,nodejs,python,go,git,github,vscode,vite,rust,docker,redis,sqlite,postgresql)
+![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,astro,nextjs,nodejs,python,go,git,github,vscode,vite,rust,docker,redis,sqlite,postgresql,vercel,netifly)
 
 ---
 
