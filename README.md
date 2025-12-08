@@ -11,7 +11,7 @@
 
 - ⚡ I'm currently self-studying IELTS from scratch.
 
-- 📫 Contact: [enderromantice@gmail.com](mailto:enderromantice@gmail.com)
+- 📫 Contact: [enderromantic@gmail.com](mailto:enderromantic@gmail.com)
 
 ---
 
