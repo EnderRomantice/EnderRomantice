@@ -17,7 +17,7 @@
 
 ### 🛠️ My Tech Stack
 
-These are not only my technologies, but also my dearest friends, and I am genuinely happy to work with them.
+These are not only my technologies, also my dearest friends, and I am genuinely happy to work with them.
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,astro,nextjs,bun,nodejs,python,fastapi,go,git,github,linux,vscode,vite,rust,docker,redis,sqlite,postgresql,vercel,aws)
 
