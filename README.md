@@ -3,7 +3,7 @@
 
 - 🔭 I love remote work.
 
-- 🌱 I'm learning **Rust** for high-performance tool development and **KV database development** to achieve efficient data storage solutions.
+- 🌱 I'm learning **Rust** for high-performance tool development and **Agent development** to build autonomous, proactive AI systems.
 
 - 👯 I want to make more friends, regardless of their background, technical field, or family. I want to see the world from different perspectives.
 
@@ -33,10 +33,3 @@ These are not only my technologies, also my dearest friends, and I am genuinely 
 ### 🌐 Connect With Me
 
 Always open to discussing tech, opportunities, or just a friendly chat!
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enderromantice@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnderRomantice)
-<!-- 在下面添加你的 LinkedIn 或其他社交链接 -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/) -->
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=EnderRomantice.EnderRomantice)
