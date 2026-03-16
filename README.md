@@ -3,7 +3,7 @@
 
 - 🔭 I love remote work.
 
-- 🌱 I build **AI Agents** with TypeScript, and I'm learning **Rust** for high-performance tooling.
+- 🌱 I build **AI Agent Infra** with TypeScript, and I'm learning **Rust** for high-performance tooling.
 
 - 👯 I want to make more friends, regardless of their background, technical field, or family. I want to see the world from different perspectives.
 
